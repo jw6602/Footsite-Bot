@@ -1,0 +1,14 @@
+github.com/TwinProduction/go-color v1.0.0 h1:8n59tqmLmt8jyRsY44RPy2ixPDDw0FcVoAhlYeyz3Jw=
+github.com/TwinProduction/go-color v1.0.0/go.mod h1:5hWpSyT+mmKPjCwPNEruBW5Dkbs/2PwOuU468ntEXNQ=
+github.com/awxsam/adyen-footsites v0.0.0-20210227093144-5551baff3c64 h1:oieWemeTAZ+1eGNMD29koGvthr/73ILYWOnvKuXuHjk=
+github.com/awxsam/adyen-footsites v0.0.0-20210227093144-5551baff3c64/go.mod h1:G5FQIBCCilDT19DeJNYSaUWnekXyp5mQawNnmD3wWkQ=
+github.com/mattia-git/go-capmonster v0.0.0-20210410140216-2fc1b3384941 h1:NVbs/Pny6FoIqhI0zYtcX1HvY74GwAraoDGnpqFvOUs=
+github.com/mattia-git/go-capmonster v0.0.0-20210410140216-2fc1b3384941/go.mod h1:vB22k4EGVNoaNnqov/UwYUInFx1TF0bclj41QPeHszE=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d h1:VhgPp6v9qf9Agr/56bj7Y/xa04UccTW04VP0Qed4vnQ=
+github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d/go.mod h1:YUTz3bUH2ZwIWBy3CJBeOBEugqcmXREj14T+iG/4k4U=
+github.com/tidwall/gjson v1.7.4 h1:19cchw8FOxkG5mdLRkGf9jqIqEyqdZhPqW60XfyFxk8=
+github.com/tidwall/gjson v1.7.4/go.mod h1:5/xDoumyyDNerp2U36lyolv46b3uF/9Bu6OfyQ9GImk=
+github.com/tidwall/match v1.0.3 h1:FQUVvBImDutD8wJLN6c5eMzWtjgONK9MwIBCOrUJKeE=
+github.com/tidwall/match v1.0.3/go.mod h1:eRSPERbgtNPcGhD8UCthc6PmLEQXEWd3PRB5JTxsfmM=
+github.com/tidwall/pretty v1.1.0 h1:K3hMW5epkdAVwibsQEfR/7Zj0Qgt4DxtNumTq/VloO8=
+github.com/tidwall/pretty v1.1.0/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
