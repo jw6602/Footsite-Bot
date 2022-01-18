@@ -1,12 +1,10 @@
 # A Simple Footsite Bot 
 
-## Feel free to dm me kaxx#0001 at discord.
+## How to Run this Bot?
 
-### How to Run this Bot?
+### 1. Create a text file called "proxy.txt", copy and paste your proxies into this file.
 
-#### 1. Create a text file called "proxy.txt", copy and paste your proxies into this file.
-
-#### 2. Create a json file called "profile.json", the format is as follows.
+### 2. Create a json file called "profile.json", the format is as follows.
 
 ```
 [
